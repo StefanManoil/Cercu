@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "396634668768",
+    "firebase_url": "https://cercuapp.firebaseio.com",
+    "project_id": "cercuapp",
+    "storage_bucket": "cercuapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396634668768:android:9ca166b5984a5129e79a85",
+        "android_client_info": {
+          "package_name": "com.example.cercu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396634668768-o1q10i71mnetrbhnkh722ab3t55ffa1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cercu",
+            "certificate_hash": "c15e9860861342fbe3c50706399920665e3c799e"
+          }
+        },
+        {
+          "client_id": "396634668768-9bfcvg4gr036he6th4e765u42462jmp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSQ8qk_5c2cTW7oz7CbMuxVAZ1AaOUG2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396634668768-9bfcvg4gr036he6th4e765u42462jmp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
